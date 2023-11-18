@@ -1,7 +1,7 @@
 
 # Hello world
 
-A beautiful and cool show of Salam Jahan.
+A beautiful and cool show of hello world.
 
 **When a programmer is told to write Hello world:😅😅🤣**
 
